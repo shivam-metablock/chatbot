@@ -3,7 +3,7 @@ import "./chatbot.css";
 import { v4 as uuidv4 } from "uuid";
 
 const API_URL = "https://api-bot.writesonic.com/v1/botsonic/generate";
-const TOKEN = "f6fa851c-dd85-4825-9cc2-86cdf3330444";
+const TOKEN = "049abca9-45ef-4b70-a133-6effe0ab908f";
 
 export default function ChatBot() {
   const [messages, setMessages] = useState([]);
