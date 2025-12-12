@@ -45,7 +45,7 @@ root.render(
     </ScrollToTop>
     <Toaster />
   </BrowserRouter>
-  {/* <ChatBot/> */}
+  <ChatBot/>
 </>
 
 );
