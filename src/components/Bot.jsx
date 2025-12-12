@@ -77,7 +77,7 @@ export default function ChatBot() {
   };
 
   return (
-    <div className="upper" style={{height:showChat?"600px":"auto"}}>
+    <div className="upper" style={{height:showChat?"540px":"auto"}}>
       {showChat ? (
         <div className="chat-container">
           <div className="chat-header">
